@@ -1,1 +1,1 @@
-This repo created to show my journay in learning AI field.
+I created this repository to document my journey in learning AI.
